@@ -1,1 +1,1 @@
-pip install boto3, selenium, time
+pip install boto3, selenium, time, BeautifulSoup4, scraper

@@ -12,3 +12,5 @@ data/
 
 # Installed dependencies
 venv/
+# Dados de exemplo
+dados_pagina_.txt
